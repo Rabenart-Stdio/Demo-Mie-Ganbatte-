@@ -1,0 +1,13 @@
+{
+  "name": "mie-ganbatte",
+  "version": "1.0.0",
+  "description": "Website resmi Mie Ganbatte - Raja Mie Chili Oil Indonesia",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
